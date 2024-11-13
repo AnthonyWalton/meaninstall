@@ -167,7 +167,3 @@
      ng serve
      ```
    - Angular Requests to `/api` will now be proxied to the Express server.
-
----
-
-After these steps, you should have a working MEAN stack setup with MySQL on your Windows machine. This configuration enables you to build a full-stack application, using MySQL as the backend database and Express to handle API requests. Let me know if you need any additional help!
